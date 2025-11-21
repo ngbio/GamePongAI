@@ -9,5 +9,5 @@
 |  3  | Nguyễn Thanh Thuận   | 2351010203  |
 
 ## Urls
-3. [File báo cáo](https://docs.google.com/document/d/1lIK_lJ0YjMF2IE1D1LelhbyrOlRvk55o7cTBXiYSc7U/edit?usp=sharing)
-4. [Github](https://github.com/ngbio/GamePongAI)
+1. [File báo cáo](https://docs.google.com/document/d/1lIK_lJ0YjMF2IE1D1LelhbyrOlRvk55o7cTBXiYSc7U/edit?usp=sharing)
+2. [Github](https://github.com/ngbio/GamePongAI)
